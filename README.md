@@ -10,4 +10,5 @@ The goal of this project is to deepen my understanding of econometric theory and
 🧾 References
 
 Wooldridge, J. M. (2020). Introductory Econometrics: A Modern Approach. 7th Edition. Cengage Learning.
+
 Wooldridge datasets: https://www.rdocumentation.org/packages/wooldridge
